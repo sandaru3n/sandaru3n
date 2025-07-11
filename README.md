@@ -50,21 +50,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaru3n&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff9500" alt="Contribution Graph" />
 </div>
-##f
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandarupeiris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandarupeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandarupeiris&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandarupeiris&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
-</div>
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
