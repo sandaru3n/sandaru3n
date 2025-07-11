@@ -166,9 +166,9 @@ CSS          35 mins         ░░░░░░░░░░░░░░░   03.
 ## ☕ Support My Work
 
 <div align="center">
+<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+  
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandarupeiris)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sandarupeiris)
 
 </div>
 
