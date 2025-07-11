@@ -62,32 +62,8 @@
 
 </div>
 
-<div align="center">
 
 
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,csharp,go,php,dart" alt="Programming Languages" />
-
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,bootstrap,tailwind,sass,jquery" alt="Frontend" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,dotnet,laravel,php" alt="Backend" />
-
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,ionic" alt="Mobile" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase" alt="Databases" />
-
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,github,gitlab,heroku,vercel,netlify" alt="Cloud & DevOps" />
-
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,figma,photoshop,illustrator,postman" alt="Tools" />
-
-</div>
 
 <!-- Contribution Snake -->
 ## 🐍 Contribution Snake
