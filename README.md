@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=635&lines=Hello+There!+I'm+Sandaru+Peiris+%F0%9F%91%8B+;Software+Engineering+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
 </div>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandarupeiris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
