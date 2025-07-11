@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World!+I'm+Sandaru+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Creative+Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<!-- Animated banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Sandaru%20Peiris&section=header&reversal=false&textBg=false&animation=twinkling"/>
-</div>
+
 
 <!-- Visitor counter -->
 <div align="center">
