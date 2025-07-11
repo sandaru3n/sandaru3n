@@ -98,7 +98,6 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=larablog&theme=tokyonight&hide_border=true)](https://github.com/sandaru3n/larablog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=educonnect&theme=tokyonight&hide_border=true)](https://github.com/sandaru3n/educonnect)
 
 </div>
