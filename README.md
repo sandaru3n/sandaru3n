@@ -21,9 +21,11 @@
 - 🌱 Currently learning **Advanced Software Architecture** and **Cloud Technologies**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **Mobile Apps**, and **Software Design**
-- ⚡ Fun fact: I love solving complex algorithms and building innovative solutions!
-- 📫 How to reach me: **sandarupeiris@example.com**
+- ⚡ Fun fact: I love building innovative solutions!
+- 📫 How to reach me: **sandaru3n@gmail.com**
 
+<!-- Animated separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Current Status -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Currently+Working+on+Final+Year+Project;Learning+Cloud+Architecture;Building+Full+Stack+Applications;Exploring+AI%2FML+Technologies" alt="Current Status" />
