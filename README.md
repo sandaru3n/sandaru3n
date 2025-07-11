@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Sandaru+Peiris+%F0%9F%91%8B;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sandaru%20Peiris&fontSize=90&fontAlignY=38&animation=twinkling&desc=3rd%20Year%20Software%20Engineering%20Student%20at%20SLIIT&descAlignY=51&descAlign=62"/>
 
 <!-- Profile Views Counter -->
 <div align="center">
