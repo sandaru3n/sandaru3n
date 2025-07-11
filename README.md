@@ -33,6 +33,24 @@
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Statistics
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 GitHub Analytics 📊</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandaru3n&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaru3n&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaru3n&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9500&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub Streak" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaru3n&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff9500" alt="Contribution Graph" />
+</div>
+##f
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandarupeiris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
