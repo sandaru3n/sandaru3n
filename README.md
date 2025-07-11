@@ -1,6 +1,6 @@
 <!-- Header Section with Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=635&lines=Hello+There!+I'm+Sandaru+Peiris+%F0%9F%91%8B+;Software+Engineering+Student;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=635&lines=Hello+There!+I'm+Sandaru+Peiris+%F0%9F%91%8B+;Software+Engineering+Student;Welcome+to+my+Github+Profile!"  />
 </div>
 
 <!-- Profile Views Counter -->
