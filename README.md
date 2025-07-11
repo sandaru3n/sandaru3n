@@ -1,122 +1,179 @@
-``# 👋 Hello, I'm Sandaru Peiris
-
+<!-- Header Section with Animated Typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Creative+Problem+Solver;Always+Learning+%26+Building" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Sandaru+Peiris+%F0%9F%91%8B;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Sandaru%20Peiris&fontSize=90&fontAlignY=38&animation=twinkling&desc=3rd%20Year%20Software%20Engineering%20Student%20at%20SLIIT&descAlignY=51&descAlign=62"/>
+
+<!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sandaru3n.sandaru3n&left_color=3b82f6&right_color=1e293b&left_text=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=sandarupeiris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sandarupeiris?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
----
-
+<!-- About Me Section -->
 ## 🚀 About Me
 
-```typescript
-const developer = {
-  name: "Sandaru Peiris",
-  location: "Sri Lanka 🇱🇰",
-  role: "Full Stack Developer",
-  currentFocus: "Modern Web Technologies & Mobile Development",
-  learning: ["Advanced React Patterns", "Microservices Architecture"],
-  funFact: "I debug with console.log() and I'm proud of it! 😄",
-  motto: "Building the future, one commit at a time"
-};
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🎓 **3rd Year Software Engineering Student** at **SLIIT** (Sri Lanka Institute of Information Technology)
+- 💻 Passionate about **Full Stack Development** and **Software Engineering**
+- 🌱 Currently learning **Advanced Software Architecture** and **Cloud Technologies**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development**, **Mobile Apps**, and **Software Design**
+- ⚡ Fun fact: I love solving complex algorithms and building innovative solutions!
+- 📫 How to reach me: **sandarupeiris@example.com**
+
+<!-- Current Status -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Currently+Working+on+Final+Year+Project;Learning+Cloud+Architecture;Building+Full+Stack+Applications;Exploring+AI%2FML+Technologies" alt="Current Status" />
+</div>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sandarupeiris&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandarupeiris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandarupeiris&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandarupeiris&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Activity Graph" />
+</div>
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandarupeiris&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp,csharp,go,php,dart" alt="Programming Languages" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,bootstrap,tailwind,sass,jquery" alt="Frontend" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,dotnet,laravel,php" alt="Backend" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,ionic" alt="Mobile" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase" alt="Databases" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,github,gitlab,heroku,vercel,netlify" alt="Cloud & DevOps" />
+
+### Tools & IDEs
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,figma,photoshop,illustrator,postman" alt="Tools" />
+
+</div>
+
+<!-- Contribution Snake -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sandarupeiris/sandarupeiris/output/snake.svg" alt="Snake animation" />
+</div>
+
+<!-- Current Projects -->
+## 🔥 Current Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandarupeiris&repo=project1&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandarupeiris&repo=project2&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/project2)
+
+</div>
+
+<!-- Coding Activity -->
+## ⏰ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 35 mins   ████████████░░░   48.30%
+JavaScript   4 hrs 21 mins   ██████░░░░░░░░░   24.50%
+Java         2 hrs 45 mins   ████░░░░░░░░░░░   15.50%
+Python       1 hr 30 mins    ██░░░░░░░░░░░░░   08.40%
+CSS          35 mins         ░░░░░░░░░░░░░░░   03.30%
 ```
+<!--END_SECTION:waka-->
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### Mobile & Tools
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandaru3n&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=e5e7eb"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaru3n&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e5e7eb"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaru3n&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakNum=e5e7eb&sideNums=e5e7eb&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=9ca3af" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandaru3n&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🚀 Featured Projects
+<!-- Achievements -->
+## 🎯 Achievements & Certifications
 
 <div align="center">
 
-[![Larablog](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=larablog&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e5e7eb)](https://github.com/sandaru3n/larablog)
+![Achievement](https://img.shields.io/badge/Achievement-Dean's%20List-gold?style=for-the-badge&logo=star&logoColor=white)
+![Certification](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Certification](https://img.shields.io/badge/Google-Cloud%20Certified-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon-Winner%202024-purple?style=for-the-badge&logo=trophy&logoColor=white)
 
 </div>
 
----
+<!-- Fun Facts -->
+## 🎨 Fun Facts
 
-## 📈 Activity Graph
+<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandaru3n&theme=github-compact&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=f59e0b" alt="Contribution Graph" />
-</div>
+- 🎮 I love gaming and building game-related projects
+- 🏃‍♂️ Enjoy running and outdoor activities
+- 📚 Always reading tech blogs and research papers
+- 🎵 Code better with music on
+- ☕ Coffee is my coding fuel
+- 🌟 Believer in clean code and best practices
+- 🚀 Dream to work at a top tech company
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandaru-peiris)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sandaru.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandaru3n@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sandarupeiris22)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sandaru-peiris)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote" />
-</div>
+<!-- Connect Section -->
+## 🤝 Connect with Me
 
 <div align="center">
 
-**Thanks for visiting! Let's build something amazing together** 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=6B7280&center=true&vCenter=true&width=400&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandarupeiris)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sandarupeiris)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sandarupeiris)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sandarupeiris)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sandarupeiris.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandarupeiris@example.com)
 
 </div>
 
----
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<!-- Support -->
+## ☕ Support My Work
 
 <div align="center">
-  <sub>⭐ Star my repositories if you find them useful!</sub>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sandarupeiris)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sandarupeiris)
+
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"/>
+
+<div align="center">
+  <h3>⭐️ From <a href="https://github.com/sandarupeiris">Sandaru Peiris</a> | Made with ❤️</h3>
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sandarupeiris&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visit Count" />
 </div>
