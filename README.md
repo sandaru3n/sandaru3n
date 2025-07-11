@@ -3,11 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+Sandaru+Peiris+%F0%9F%91%8B;Software+Engineering+Student;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<div>
-<span></span>
-<span></span>
-<span></span>
-</div>
+</br>
+</br>
 
 
 <!-- Profile Views Counter -->
