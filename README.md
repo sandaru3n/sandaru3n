@@ -98,8 +98,8 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=larablog&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=educonnect&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=larablog&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/larablog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sandaru3n&repo=educonnect&theme=tokyonight&hide_border=true)](https://github.com/sandarupeiris/educonnect)
 
 </div>
 
