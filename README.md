@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Current Status -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Currently+Working+on+Final+Year+Project;Learning+Cloud+Architecture;Building+Full+Stack+Applications;Exploring+AI%2FML+Technologies" alt="Current Status" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F7EE00&width=435&lines=Learning+Cloud+Architecture;Building+Laravel+Applications;Exploring+AI+Technologies%22%20alt=%22Typing%20SVG" />
 </div>
 
 <!-- GitHub Stats Section -->
