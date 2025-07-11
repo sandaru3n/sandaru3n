@@ -173,11 +173,3 @@ CSS          35 mins         ░░░░░░░░░░░░░░░   03.
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"/>
 
-<div align="center">
-  <h3>⭐️ From <a href="https://github.com/sandarupeiris">Sandaru Peiris</a> | Made with ❤️</h3>
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sandarupeiris&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visit Count" />
-</div>
