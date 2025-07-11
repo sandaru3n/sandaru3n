@@ -166,7 +166,7 @@ CSS          35 mins         ░░░░░░░░░░░░░░░   03.
 ## ☕ Support My Work
 
 <div align="center">
-<p align="left"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="left"><a href="https://www.buymeacoffee.com/sandaru3n"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
   
 
 
