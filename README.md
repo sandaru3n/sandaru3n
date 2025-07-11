@@ -126,7 +126,7 @@ CSS          35 mins         ░░░░░░░░░░░░░░░   03.
 ![Achievement](https://img.shields.io/badge/Achievement-Dean's%20List-gold?style=for-the-badge&logo=star&logoColor=white)
 ![Certification](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Certification](https://img.shields.io/badge/Google-Cloud%20Certified-blue?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Hackathon](https://img.shields.io/badge/Hackathon-Winner%202024-purple?style=for-the-badge&logo=trophy&logoColor=white)
+
 
 </div>
 
