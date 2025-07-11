@@ -59,9 +59,6 @@
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/7b4c1ded34735535305ebd0bb3b9b1989b3f62cb476d768ae799dadf2b1cb323/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f6170702e706e67" width="720" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;">
-</p>
 
 <div align="center">
 
