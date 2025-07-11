@@ -5,7 +5,7 @@
 
 <!-- Animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sandaru%20Senadeera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sandaru%20Senadeera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32](https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Sandaru%20Peiris&section=header&reversal=false&textBg=false&animation=twinkling)"/>
 </div>
 
 <!-- Visitor counter -->
